@@ -62,14 +62,8 @@ public
 .DS_Store
 
 # Yarn
-# Project dependencies
-.cache
-node_modules
 yarn-error.log
 .pnp/
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
-
-# Build directory
-/public
